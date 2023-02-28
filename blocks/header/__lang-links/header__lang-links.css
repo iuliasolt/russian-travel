@@ -1,0 +1,9 @@
+.header__lang-links {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.header__lang-links:last-of-type {
+  margin: 0;
+}
+
