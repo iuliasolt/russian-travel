@@ -1,10 +1,10 @@
-# Проект: Путешествие по России
+# Проект: Путешествия по России
 GitHub Pages: https://iuliasolt.github.io/russian-travel/
 ### Обзор
 * Описание
 * Figma
 * Использованные технологии
-* Инструкция по установке
+* Инструкция для использования
 
 
 
@@ -20,7 +20,7 @@ GitHub Pages: https://iuliasolt.github.io/russian-travel/
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Использованные технологии/знания**
+**Использованные технологии**
 
 * Flexbox
 * Grid Layout
@@ -29,7 +29,7 @@ GitHub Pages: https://iuliasolt.github.io/russian-travel/
 * Git
 * Figma
 
-**Инструкция по установке**
+**Инструкция для использования**
 ```
 #клонируем репозиторий
 git clone git@github.com:iuliasolt/russian-travel.git
