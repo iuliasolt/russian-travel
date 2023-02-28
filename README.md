@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-GitHub Pages:
+GitHub Pages: https://iuliasolt.github.io/russian-travel/
 ### Обзор
 * Описание
 * Figma
