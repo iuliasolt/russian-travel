@@ -30,8 +30,10 @@ GitHub Pages:
 * Figma
 
 **Инструкция по установке**
+```
 #клонируем репозиторий
 git clone git@github.com:iuliasolt/russian-travel.git
 
 #заходим в папку russian-travel
 cd russian-travel
+```
