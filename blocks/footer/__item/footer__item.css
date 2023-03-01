@@ -4,7 +4,7 @@
   justify-content: space-around;
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 680px) {
   .footer__item {
     margin: 0 0 32px;
   }
