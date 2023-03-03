@@ -21,5 +21,9 @@
 @media screen and (max-width:680px) {
   .place__paragraph {
     padding: 0 16px 0 16px;
+    margin-top: 32px;
+  }
+  .place__paragraph:last-of-type {
+    margin-top: 0;
   }
 }
